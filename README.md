@@ -84,21 +84,3 @@ Também podemos executar os testes em modo Headless para ganharmos ainda mais pe
  <img src=https://m.media-amazon.com/images/I/61QeX8HghML.png style=width:12% />
 
 ---
-
-## Muito obrigado pela oportunidade! 💖
-Foi muito divertido testar as aplicações e colocar em prática o que aprendi ao longo das semanas de estudos neste desafio.
-
-Espero nos vermos em breve, hahaha! Abraços 😉👋
-
-
-## Contato
-
-<a href="https://www.linkedin.com/in/felipe-santos-lopes-1a873416b/">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4D03AQGl6O7xKpQnvQ/profile-displayphoto-shrink_800_800/0/1535575091116?e=1679529600&v=beta&t=i8rur39YWY6k370H2SEOn7SpOSJIr_TSMhBuOEosGnA" width="100px;" alt="Felipe Santos"/>
-<br />
-<br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-santos-lopes-1a873416b/)](https://www.linkedin.com/in/felipe-santos-lopes-1a873416b/)
-[![Hotmail Badge](https://img.shields.io/badge/-felipeslopes2010@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeslopes2010@hotmail.com)](mailto:felipeslopes2010@hotmail.com)
-
----
