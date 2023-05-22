@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/C4D16AQEJbhzbDWDZwQ/profile-displaybackgroundimage-shrink_350_1400/0/1659356205485?e=1679529600&v=beta&t=p5jmdFzjCrnk22bXFPd9NA-eXtkMWIyumyHVJJN0ehU">
-
-
-![GitHub top language](https://img.shields.io/github/languages/top/felipeslopes2010/qualyteam-challenge-2023)<space><space>
-![Lines of Code](https://img.shields.io/tokei/lines/github/felipeslopes2010/qualyteam-challenge-2023)<space><space>
-![GitHub repo size](https://img.shields.io/github/repo-size/felipeslopes2010/qualyteam-challenge-2023)<space><space>
-![Feito por](https://img.shields.io/badge/feito%20por-Felipe%20Santos-blueviolet)
-
-</div align="center">
 
 # Challenge Qualyteam QA 2023 💻
 
